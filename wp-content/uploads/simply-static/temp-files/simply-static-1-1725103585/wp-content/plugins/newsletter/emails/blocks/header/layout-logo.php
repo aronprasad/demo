@@ -1,1 +1,0 @@
-<p>Set your logo on company info page, thank you.</p>
